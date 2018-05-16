@@ -140,10 +140,6 @@ A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
-
-
-jdfidjifjidf
-```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjIwODIyMF19
+eyJoaXN0b3J5IjpbMTAyMDcwODY0MSwxODUyMjA4MjIwXX0=
 -->
